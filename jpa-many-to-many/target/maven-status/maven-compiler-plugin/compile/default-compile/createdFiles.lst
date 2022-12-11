@@ -1,0 +1,5 @@
+com\codeforgety\jpamanytomany\repository\StreamRepository.class
+com\codeforgety\jpamanytomany\JpaManyToManyApplication.class
+com\codeforgety\jpamanytomany\model\Stream.class
+com\codeforgety\jpamanytomany\repository\ViewerRepository.class
+com\codeforgety\jpamanytomany\model\Viewer.class
